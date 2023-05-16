@@ -12,6 +12,7 @@
 </a>
 </p>
 The project is a portal designed to handle different types of relationships, including one-to-one, one-to-many, many-to-one, and many-to-many relationships. It provides CRUD operations for four models: Student, Laptop, Course, and Book. These models represent entities such as students, laptops, courses, and books, and each model has its own set of attributes and relationships.
+
 ---
 <br>
 
